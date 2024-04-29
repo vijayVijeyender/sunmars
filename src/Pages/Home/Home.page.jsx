@@ -15,7 +15,7 @@ export function Home() {
                     <div style={{
                         "maxWidth": "350px"
                     }}>
-                        <h1 className="text-uppercase fw-bold text-primary">Biben dum<br />fringi dictum, augue purus</h1>
+                        <h1 className="text-uppercase fw-bold text-primary">Hello Everyone,<br />fringi dictum, augue purus</h1>
                         <p className="text-primary my-3">Tincidunt laoreet leo, adipiscing taciti tempor. Primis senectus sapien, risus donec ad fusce augue interdum.</p><a className="btn btn-primary btn-lg me-2" role="button" href="#">Button</a><a className="btn btn-outline-primary btn-lg" role="button" href="#">Button</a>
                     </div>
                 </div>
